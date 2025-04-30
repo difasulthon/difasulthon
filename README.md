@@ -6,4 +6,6 @@
 
 > Front End Developer (Mobile App)
 
-Currently living and working as a Front-End Developer with a strong focus on mobile application development. I’m currently part of the team at one of Indonesia’s leading digital banking platforms, where I help craft intuitive and high-performance mobile experiences. I'm also a lifelong learner, always exploring new tools, patterns, and best practices in frontend development.
+Currently living and working as a Front-End Developer with a strong focus on mobile application development. 
+
+I’m currently part of the team at one of Indonesia’s leading digital banking platforms, where I help craft intuitive and high-performance mobile experiences. I'm also a lifelong learner, always exploring new tools, patterns, and best practices in frontend development.
