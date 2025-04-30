@@ -12,9 +12,9 @@ I’m currently part of the team at one of Indonesia’s leading digital banking
 
 In my daily work, I primarily use technologies like React Native, JavaScript, TypeScript, React, Node.js, and Jest to build and maintain scalable mobile applications. While my main focus is on cross-platform development, I'm also familiar with native mobile ecosystems on both Android and iOS, which helps me bridge gaps and collaborate effectively across platform.
 
-- ⚒ I'm currently working with JS, React, React Native, Node, etc
-- 🔎 I'm currently exploring Typescript, Bun, Hono JS, Remix, service deployment, etc
-- 🔫 My daily tools include VS Code, Android Studio, Jenkins, MongoDB Compass, OpenShift, Git etc
-- 👨‍💻 Occasionally take on part-time or freelance mobile app projects using React Native
-- ⚽ I regularly go for a run and play football to stay active and refreshed
-- 📬 Reach me at mdifasulthon@gmail.com
+- ⚒ &nbsp; I'm currently working with JS, React, React Native, Node, etc
+- 🔎 &nbsp; I'm currently exploring Typescript, Bun, Hono JS, Remix, service deployment, etc
+- 🔫 &nbsp; My daily tools include VS Code, Android Studio, Jenkins, MongoDB Compass, OpenShift, Git etc
+- 👨‍💻 &nbsp; Occasionally take on part-time or freelance mobile app projects using React Native
+- ⚽ &nbsp; I regularly go for a run and play football to stay active and refreshed
+- 📬 &nbsp; Reach me at mdifasulthon@gmail.com
