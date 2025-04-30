@@ -9,3 +9,5 @@
 Currently living and working as a Front-End Developer with a strong focus on mobile application development. 
 
 I’m currently part of the team at one of Indonesia’s leading digital banking platforms, where I help craft intuitive and high-performance mobile experiences. I'm also a lifelong learner, always exploring new tools, patterns, and best practices in frontend development.
+
+In my daily work, I primarily use technologies like React Native, JavaScript, TypeScript, React, Node.js, and Jest to build and maintain scalable mobile applications. While my main focus is on cross-platform development, I'm also familiar with native mobile ecosystems on both Android and iOS, which helps me bridge gaps and collaborate effectively across platform.
