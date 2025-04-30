@@ -18,3 +18,7 @@ In my daily work, I primarily use technologies like React Native, JavaScript, Ty
 - 👨‍💻 &nbsp; Occasionally take on part-time or freelance mobile app projects using React Native
 - ⚽ &nbsp; I regularly go for a run and play football to stay active and refreshed
 - 📬 &nbsp; Reach me at mdifasulthon@gmail.com
+
+You can ask me or reach out about anything related to mobile app development, front-end engineering, user interface design, or working as a freelance developer.
+
+Stay active, keep learning, and enjoy your day!
