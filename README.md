@@ -22,3 +22,13 @@ In my daily work, I primarily use technologies like React Native, JavaScript, Ty
 You can ask me or reach out about anything related to mobile app development, front-end engineering, user interface design, or working as a freelance developer.
 
 Stay active, keep learning, and enjoy your day!
+
+## 📈 GitHub Insights
+
+<div align="center">
+  
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![Difa Sulthon's GitHub stats](https://github-readme-stats.vercel.app/api?username=difasulthon&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=difasulthon&theme=tokyonight&layout=compact&hide=html,php,hack,css,TeX) |
+
+</div>
